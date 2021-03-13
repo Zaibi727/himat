@@ -9,7 +9,7 @@ class TopNav extends React.Component {
             <div className="TopNav">
                <section className="Top-Nav-section">
                    <div>
-                     <a><h5>WEBSCALABLE</h5></a>
+                     <a><h5>Dashboard</h5></a>
                    </div>
                    <div className="input-bar">
                        <a><i id="top-bar-searc-icon" class="fa fa-search"></i><input className="top-input-bar-ph" type="text" placeholder="Search"/></a>
