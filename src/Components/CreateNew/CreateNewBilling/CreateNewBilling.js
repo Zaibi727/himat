@@ -17,31 +17,31 @@ class CreateNewBilling extends React.Component{
                             <i id="paypal" class="fa fa-paypal fa-3x"></i>
                             <h3 id="paypal">PayPal</h3>
                             <button id="paypal-btn">
-                             <a>Connect</a>
+                             Connect
                             </button>
                         </div>
                         <div className="create-new-billing-payment-method-box">
                         <i class="fa fa-cc-mastercard fa-3x"></i>
                             <h3>Credited/Debit card</h3>
                             <button>
-                             <a>Connect</a>
+                             Connect
                             </button>
                         </div>
                         <div className="create-new-billing-payment-method-box">
                             <i class="fa fa-paypal fa-3x"></i>
                             <h3>PayPal</h3>
                             <button>
-                             <a>Connect</a>
+                             Connect
                             </button>
                         </div>
                     </div>
                 </section>
                 <div className="confirmation-bottom-btn">
                       <button className="confirmation-bottom-btn-1">
-                          <a>Back</a>
+                          Back
                       </button>
                       <button>
-                          <a>Next</a>
+                          Next
                       </button>
                   </div>
             </div>
